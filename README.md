@@ -1,7 +1,8 @@
 
-# Will Taiwan Starve Under a Chinese Blockade?
+# Taiwan’s Food Security Under a Potential Chinese Blockade
 
 This scrollytelling project explores Taiwan’s food security in the face of a potential Chinese blockade. It combines official data, multimedia elements, and visual storytelling to examine the island’s reliance on food imports and its preparedness for crisis scenarios.
+View the full project [here](https://ashley-yihui-lee.github.io/taiwan-food).
 
 ---
 
@@ -37,3 +38,9 @@ This scrollytelling project explores Taiwan’s food security in the face of a p
 ### 📈 Visualization
 
 The scrollytelling template is based on this [template](https://github.com/jsoma/page-templates/).
+
+---
+### 🛠 Lessons Learned
+- Talk to the expert before making the visualizations or writing the article. I initially built charts and designed the page based on Taiwan’s food self-sufficiency rate, thinking it was the key indicator. But after speaking with an expert, I realized that “potential” food self-sufficiency was the more relevant metric in a blockade scenario—so I had to scrap and rebuild almost everything. (Special thanks to Professor Chen Chi-chung for pointing me in the right direction!)
+
+- Choose the most powerful way to visualize a number or trend. I scraped data from the Ministry of Defense to calculate how many PLA jets flew around Taiwan last year—about 5,000, by the way—but later realized a single visualization about the Joint Sword 2024B blockade drill would tell the story more effectively. So I gave up the yearlong data (RIP to that night's work— great scraping practice though!).
