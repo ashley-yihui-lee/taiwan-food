@@ -19,30 +19,21 @@ This scrollytelling project explores Taiwan’s food security in the face of a p
 
 ---
 
-## 🎥 Video Usage
+## 🎥 Photo and Video Used
 
 - **Xi Jinping Video Segment**  
   Source: China Central Television (CCTV) via YouTube  
   Downloaded using [yt-dlp](https://github.com/yt-dlp/yt-dlp)  
   Edited in Adobe Premiere Pro
 
-  *Disclaimer:* The video content used is a recording of official government speech. This falls under fair use for journalistic and educational purposes and does not violate copyright.
-
----
-
-## 📷 Photos Used
-
 - **Night Market Photo**  
   Photo by Daniel Honies on Unsplash  
   https://unsplash.com/photos/a-crowd-of-people-walking-through-a-street-at-night-qJX_J6U5Vm4
-
-- **Boba Food Table Photo**  
-  Photo by Jiachen Lin on Unsplash  
-  https://unsplash.com/photos/green-and-white-potted-plants-on-brown-wooden-table-qzr6-an4g3Y
+  
+- **Military Photo** 
+  Photo by Taiwan's Presidential Office
 
 ---
+### 📈 Visualization
 
-## ✍️ Created By
-
-Ashley (Yi Hui) Lee  
-https://ashley-yihui-lee.github.io/
+The scrollytelling template is based on this [template](https://github.com/jsoma/page-templates/).
